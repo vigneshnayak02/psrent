@@ -4,6 +4,8 @@
 
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
+**Website url**:https://psrental.lovable.app/
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
